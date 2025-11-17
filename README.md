@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I'm currently working at Pridesys IT Ltd. as a Software Engineer. Im currently building a cloud based [microservice] ERP solution for the global market. I've completed my undergrad on Computer Science & Engineering at BUET. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
+I am Md. Abu Nasar Wahid (Nabid). I'm currently a student of United International University. I've completed my Diploma on Computer Technology at Mymensingh Politechnic Institute. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
