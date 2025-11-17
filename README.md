@@ -15,37 +15,25 @@ Besides tech, I enjoy movies, anime, reading, and travelling.
 C++, Golang, Java, JavaScript, SQL
 
 ### **Backend**
-- Spring Boot
-- Node.js
-- Express.js
+Spring Boot, Node.js, Express.js
 
 ### **Frontend**
-- React
+React
 
 ### **Database**
-- PostgreSQL
-- OracleDB
-- MongoDB
+PostgreSQL, OracleDB, MongoDB
 
 ### **Data Stores**
-- Redis
-- Kafka
+Redis, Kafka
 
 ### **Tools**
-- Git  
-- GitHub workflow
+Git, GitHub workflow
 
 ### **Testing**
-- JUnit5  
-- Mockito  
-- Gatling  
-- Testify  
-- Test Containers
+JUnit5, Mockito, Gatling, Testify, Test Containers
 
 ### **Infra**
-- Docker  
-- Kubernetes  
-- Linux
+Docker, Kubernetes, Linux
 
 ---
 
