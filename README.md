@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 -->
 
 I am Md. Abu Nasar Wahid (Nabid). I'm currently a student of United International University. I've completed my Diploma on Computer Technology at Mymensingh Politechnic Institute. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
+
+My Tech!
+Languages - C++ Golang Java Javascript SQL
+Backend - Spring Boot Node.js Express.js
+Frontend - React
+Database - PostgreSQL OracleDB MongoDB
+Data Stores - Redis Kafka
+Tools - Git Github workflow
+Testing - JUnit5 Mockito Gatling Testify Test Container
+Infra - Docker Kubernetes Linux
+Cloud - Azure Cloud Service
+Productivity - Jira MS Powerpoint Adobe Photoshop
