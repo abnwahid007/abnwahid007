@@ -12,7 +12,7 @@ Besides tech, I enjoy movies, anime, reading, and travelling.
 ## My Tech!
 
 ### **Languages**
-C++, Golang, Java, JavaScript, SQL
+<small>C++, Golang, Java, JavaScript, SQL</small>
 
 ### **Backend**
 Spring Boot, Node.js, Express.js
