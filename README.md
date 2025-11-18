@@ -3,28 +3,24 @@
 ## Hi there 👋
 
 I am **Md. Abu Nasar Wahid**.  
-I’m a Software Engineer. I’m currently building solutions and improving myself in backend engineering, systems, and microservices.  
-I have completed my undergrad in **Computer Science & Engineering**.  
-Besides tech, I enjoy movies, anime, reading, and travelling.
+I am Md. Abu Nasar Wahid. I'm currently completing my B.Sc at United Internatinal University. I've completed my Diploma on Computer Technologyy at Mymensingh Polytechnic Institute. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
 
 ---
 
 ## My Tech!
 
-**Languages –** C++, Golang, Java, JavaScript, SQL  
-**Backend –** Spring Boot, Node.js, Express.js  
+**Languages –** C, C++, Php, Java, JavaScript, SQL  
+**Backend –** Node.js, Express.js  
 **Frontend –** React  
-**Database –** PostgreSQL, OracleDB, MongoDB  
-**Data Stores –** Redis, Kafka  
-**Tools –** Git, GitHub workflow  
-**Testing –** JUnit5, Mockito, Gatling, Testify, Test Containers  
-**Infra –** Docker, Kubernetes, Linux  
+**Database –** MySQL, MongoDB   
+**Tools –** Git, GitHub workflow   
+**Infra –** Docker, Linux  
 
 ---
 
 ## Connect with Me
 
-- 🎓 **CSE, BUET**
-- 🌍 **Singapore**
-- 🔗 Website: https://taminmehsan.github.io/  
-- 🧑‍💼 LinkedIn: https://linkedin.com/in/taminmehsan
+- 🎓 **CSE, UIU**
+- 🌍 **Bangladesh**
+- 🔗 Website: [https://taminmehsan.github.io/ ](https://github.com/abnwahid007) 
+- 🧑‍💼 LinkedIn: [https://linkedin.com/in/taminmehsan](https://www.linkedin.com/in/md-abu-nasar-wahid-853561365/)
