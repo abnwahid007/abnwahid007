@@ -22,5 +22,5 @@ I am Md. Abu Nasar Wahid. I'm currently completing my B.Sc at United Internatina
 
 - 🎓 **CSE, UIU**
 - 🌍 **Bangladesh**
-- 🔗 Website: [https://taminmehsan.github.io/ ](https://github.com/abnwahid007) 
-- 🧑‍💼 LinkedIn: [https://linkedin.com/in/taminmehsan](https://www.linkedin.com/in/md-abu-nasar-wahid-853561365/)
+- 🔗 Website: [https://github.com/abnwahid007] 
+- 🧑‍💼 LinkedIn: [https://www.linkedin.com/in/md-abu-nasar-wahid-853561365/]
