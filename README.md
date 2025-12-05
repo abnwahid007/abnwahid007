@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 I am **Md. Abu Nasar Wahid**.  
-I am Md. Abu Nasar Wahid. I'm currently completing my B.Sc. at United Internatinal University. I've completed my Diploma on Computer Technology at Mymensingh Polytechnic Institute. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
+I'm currently completing my B.Sc. at United Internatinal University. I've completed my Diploma on Computer Technology at Mymensingh Polytechnic Institute. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
 
 ---
 
