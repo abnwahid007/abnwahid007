@@ -14,7 +14,7 @@ I'm currently completing my B.Sc. at United Internatinal University. I've comple
 **Frontend –** React  
 **Database –** MySQL, MongoDB   
 **Tools –** Git, GitHub workflow  
-**Testing -** Postman
+**Testing -** Postman 
 **Infra –** Docker, Linux  
 
 ---
